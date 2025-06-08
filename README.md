@@ -24,13 +24,4 @@ To build and evaluate a multi-class classification model that accurately predict
 - Visualized confusion matrix to interpret prediction results effectively.
 
 ## 📊 Insight
-This project demonstrated a successful machine learning workflow for predicting customer satisfaction. Class weighting improved the fairness of predictions, and the final model provided reliable outputs across different satisfaction levels. Random Forest showed strong performance in capturing complex patterns in the data.
-
-## 🔧 Future Improvements
-- Apply SMOTE or oversampling techniques.
-- Hyperparameter tuning for better performance.
-- Try advanced models like XGBoost or LightGBM.
-
-## 🧑‍💻 Author
-*Your Name*  
-For more, visit [https://build4-0.com](https://build4-0.com)
+This project demonstrated a successful machine learning workflow for predicting customer satisfaction. Class weighting improved the fairness of predictions, and the final model provided reliable outputs across different satisfaction levels. Random Forest showed strong performance in capturing complex patterns in the data
